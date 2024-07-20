@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @nitish8090
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular
+Hi, I'm Nitish.
+
+I am a full-stack developer and love❤️ web dev and computers🖥️.
+
+My weapons of choice are `Django`, `React`, `PostgreSQL` and `AWS`, 
+
+though my arsenal also has `Angular`, `Vue`, `ExpressJS` and a bunch of other weapons.
+
+---
+
+You can find me at these places:
+
+[NitishPatel.in](https://www.nitishpatel.in) [X](https://twitter.com/Ni30Patel) [LinkedIn](https://www.linkedin.com/in/nitish-patel-84b0671b3/)
+
 - 💞️ I’m looking to collaborate on Everything
-- 📫 How to reach me: Visit [NitishPatel.in](https://www.nitishpatel.in)
+
 
 <!---
 nitish8090/nitish8090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
